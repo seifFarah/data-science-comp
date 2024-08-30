@@ -49,4 +49,3 @@ top_10_rules = filtered_rules.sort_values('lift', ascending=False).head(10)
 # Display the top 10 rules in a table format
 print("Top 10 Strongest Relationships:")
 print(top_10_rules[['antecedents', 'consequents']])
-
