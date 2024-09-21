@@ -1,4 +1,4 @@
-# UoA Data Science Club X BizTech Society Case Competition
+## UoA Data Science Club X BizTech Society Case Competition (2nd place)
 - Analysis of an office supplies company's data to identify opportunities for sustainable growth
 
 ## In order to view the sales forecast on your devices follow the following instructions:
